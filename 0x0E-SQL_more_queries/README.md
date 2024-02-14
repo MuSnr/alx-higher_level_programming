@@ -1,3 +1,4 @@
+![SQL](https://github.com/MuSnr/alx-higher_level_programming/assets/108272722/6ab5f144-fcef-4c8d-8acc-be8470605f22)
 
 # SQL - More queries
 This README provides a summary of various MySQL topics and SQL techniques for managing users, granting permissions, working with constraints, subqueries, joins, distinct keyword, join types, union and minus operations, MySQL cheat sheet, SQL style guide, and MySQL 8.0 SQL statement syntax.
