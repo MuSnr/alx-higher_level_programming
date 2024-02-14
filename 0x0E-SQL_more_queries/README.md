@@ -2,7 +2,7 @@
 
 # SQL - More queries
 This README provides a summary of various MySQL topics and SQL techniques for managing users, granting permissions, working with constraints, subqueries, joins, distinct keyword, join types, union and minus operations, MySQL cheat sheet, SQL style guide, and MySQL 8.0 SQL statement syntax.
-##Tasks 📃
+## Tasks 📃
 ## Create a New User and Grant Permissions in MySQL
 I Learn how to create a new user in MySQL and grant specific permissions using the GRANT statement to control access to databases and tables.
 ## Use MySQL GRANT Statement To Grant Privileges To a User
