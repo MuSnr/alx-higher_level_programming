@@ -5,7 +5,7 @@
 
 ## Resources
 
-- [What is JavaScript?]([javascript_link_here](https://intranet.alxswe.com/rltoken/NJ5XM_fzjlBKERHTkdF-uA)
+- [What is JavaScript?](https://intranet.alxswe.com/rltoken/NJ5XM_fzjlBKERHTkdF-uA)
 - [Selector](https://intranet.alxswe.com/rltoken/wsnVUxEcAzzlCx6ES1qc7g)
 - [Get and set content](https://intranet.alxswe.com/rltoken/rwtc96sn2_LHToBAd0MIhQ)
 - [Manipulate CSS classes](https://intranet.alxswe.com/rltoken/IcM5kKVzssU0ibdUo-2gKQ)
