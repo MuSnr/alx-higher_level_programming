@@ -1,6 +1,7 @@
 # JavaScript - Web jQuery
 
 ## Front-end JavaScript
+![image](https://github.com/MuSnr/alx-higher_level_programming/assets/108272722/95d7eb7e-3b54-4fad-a7ef-b4eba0e2da5c)
 
 ## Resources
 
